@@ -65,10 +65,11 @@ The circuit shown in this repository was designed in **Tinkercad Circuits**.
 The exact detection threshold, number of monitored spaces, LED mapping, and LCD messages are determined by the Arduino source code.
 
 ## 🔌 Circuit Diagram
-🔗 Tinkercad Simulation
-[**View Smart Parking System on Tinkercad**](https://www.tinkercad.com/things/lAfzAACROuS-smart-parking-system/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=z9onetg9kr1oYMDTBwkMIY8r2zKmwroJAItQK83BiPg)
-The following image shows the Tinkercad circuit layout used for this project.
+- **Simulation:** [View on Tinkercad](YOUR_LINK)
+- **Platform:** Tinkercad Circuits
+- **Controller:** Arduino Uno R3<br>
 
+The following image shows the Tinkercad circuit layout used for this project.
 <div align="center">
   <img src="assets/circuit-diagram.png" alt="Smart Parking System Arduino circuit diagram in Tinkercad" width="100%" />
   <p><em>Smart Parking System — Tinkercad circuit design</em></p>
